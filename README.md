@@ -4,7 +4,8 @@ HANGMAN GAME
 ### [Click here to play] ( https://ng-hangman.github.io/WebApp/)
 
 
-Hangman
+
+What is Hangman
 =======
 
 Hangman is an educational classic word-guessing games or a puzzle for one or more players by picking the letter. 
@@ -16,6 +17,7 @@ Scores will be added or subtracted depends on what letter you picked.
 It has the maximum letter of number for the wrong letters until you get it immediately. 
 
 This game was built with HTML5.
+
 
 
 How to play 
@@ -34,6 +36,7 @@ The other players will need to guess your word letter by letter, so choose a wor
 Difficult words usually have uncommon letters, like "z," or "j," and only a few vowels.
 
 For longer games, you can also choose phrases.
+
 
 
 Strategy
