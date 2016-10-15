@@ -1,3 +1,5 @@
+### [Play HANGMAN] ( https://ng-hangman.github.io/WebApp/)
+
 HANGMAN
 =======
 
@@ -25,4 +27,4 @@ common letters (e.g. rhythm or zephyr) or one that contains rare letters (e.g. j
 
 When you play this game, the best strategy is to guest vowel first.
 
-### [Web Game App] ( https://ng-hangman.github.io/WebApp/)
+
