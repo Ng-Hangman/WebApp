@@ -1,4 +1,7 @@
-### [Play HANGMAN] ( https://ng-hangman.github.io/WebApp/)
+HANGMAN GAME
+============
+
+### [Click here to play HANGMAN] ( https://ng-hangman.github.io/WebApp/)
 
 HANGMAN
 =======
@@ -12,6 +15,24 @@ Scores will be added or subtracted depends on what letter you picked.
 It has the maximum letter of number for the wrong letters until you get it immediately. 
 
 This game was built with HTML5.
+
+
+HOW TO PLAY HANGMAN
+===================
+
+Choose one person to be the "host." This is the person that invents the puzzle for the other person to solve. 
+
+They will be tasked with choosing a word or phrase that "the players" will have to solve.
+
+The host should be able to spell confidently or the game will be impossible to win.
+
+If you are the host, choose a secret word. 
+
+The other players will need to guess your word letter by letter, so choose a word you think will be difficult to guess. 
+
+Difficult words usually have uncommon letters, like "z," or "j," and only a few vowels.
+
+For longer games, you can also choose phrases.
 
 
 STRATEGY
