@@ -44,7 +44,6 @@ The twelve most commonly occurring letters are, in descending order: e-t-a-o-i-n
 This and other letter-frequency lists are used by the guessing player to increase the odds when it is their turn to guess.
 
 On the other hand, the same lists can be used by the puzzle setter to stump their opponent by choosing a word which deliberately avoids
-
 common letters (e.g. rhythm or zephyr) or one that contains rare letters (e.g. jazz).
 
 When you play this game, the best strategy is to guest vowel first.
