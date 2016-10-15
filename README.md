@@ -1,7 +1,7 @@
 HANGMAN GAME
 ============
 
-### [Click here to play HANGMAN] ( https://ng-hangman.github.io/WebApp/)
+### [Click here to play] ( https://ng-hangman.github.io/WebApp/)
 
 
 Hangman
