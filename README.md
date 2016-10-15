@@ -3,6 +3,7 @@ HANGMAN GAME
 
 ### [Click here to play HANGMAN] ( https://ng-hangman.github.io/WebApp/)
 
+
 HANGMAN
 =======
 
