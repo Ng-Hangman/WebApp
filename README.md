@@ -1,4 +1,4 @@
-HANGMAN GAME
+Hangman Game
 ============
 
 ### [Click here to play] ( https://ng-hangman.github.io/WebApp/)
