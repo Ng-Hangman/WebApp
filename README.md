@@ -8,7 +8,7 @@ Hangman Game
 What is Hangman
 =======
 
-Hangman is an educational classic word-guessing games or a puzzle for one or more players by picking the letter. 
+Hangman is an educational classic word-guessing game or a puzzle for one or more players by picking the letter. 
 
 It is originally from a paper and pencil guessing game. 
 
