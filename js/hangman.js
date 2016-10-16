@@ -35,21 +35,19 @@ function StartHangman($scope, $document) {
 			return ;
 		}
 
-		/* If ch is already in the failed guess list */
 		for(i in $scope.failedGuess) {
 			if(ch == $scope.failedGuess[i]) return ;
 		}
 
-		/* Check if it's part of the answer */
 		var found = false;
-		$scope.answer = $scope.answer.split(""); /* convert to array of char */
+		$scope.answer = $scope.answer.split("");
 		for(i in $scope.secretWords) {
 			if($scope.secretWords[i] == ch) {
 				found = true;
 				$scope.answer[i] = ch;
 			}
 		}
-		$scope.answer = $scope.answer.join(""); /* convert back to string */
+		$scope.answer = $scope.answer.join("");
 
 		if(!found) {
 			$scope.failedGuess.push(ch);
