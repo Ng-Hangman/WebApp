@@ -12,6 +12,10 @@ Hangman is an educational classic word-guessing game or a puzzle for one or more
 
 It is originally from a paper and pencil guessing game. 
 
+One player is " the hosts " , makes up a secret word , while the other player tries to guees the word by asking what letter it contains.
+
+Every wrong guess brings them one step closer  to lossing.
+
 Scores will be added or subtracted depends on what letter you picked. 
 
 It has the maximum letter of number for the wrong letters until you get it immediately. 
@@ -24,6 +28,8 @@ How to play
 ===================
 
 Choose one person to be the "host." This is the person that invents the puzzle for the other person to solve. 
+
+Start guessing letter if you are the player.
 
 They will be tasked with choosing a word or phrase that "the players" will have to solve.
 
