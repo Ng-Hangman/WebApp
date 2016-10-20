@@ -8,7 +8,6 @@
 </head>
 <body ng-controller="StartHangman">
         <h3>HANGMAN</h>
-        <Classic GUESSING game turns into digital.</p>
         <h4>HOW TO PLAY</h>
 	<p>Choose a HOST who will make the "SECRET WORD". Player(s) will try to guess the secret word within 8 tries! Goodluck!<p>	
 	<svg width="400" height="400">
@@ -36,7 +35,7 @@
 
 		<input type="text" ng-model="charGuess" id="char-guess" ng-keyup="$event.keyCode == 13 ? guess(charGuess) : null" placeholder="Guess a letter">
 		<button ng-click="guess(charGuess)">Enter</button> <br>
-                <p>Guess the secret word</>
+                <p>Guess a letter!</>
 	</div>
 
 	<div ng-show="stage == 'won'">
