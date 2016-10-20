@@ -25,7 +25,7 @@
 	</svg>
 
 	<div ng-show="stage == 'initial'">
-		<h2>Please enter the secret word(s):</h2>
+		<h2>HOST must enter the secret word(s):</h2>
 		<input type="text" ng-model="secretWords" autofocus ng-keyup="$event.keyCode == 13 ? startGame() : null">
 		<button ng-click="startGame()">Enter</button>
 	</div>
@@ -35,7 +35,8 @@
 		<h2>Failed guess ({{ failedGuess.length }}) = {{ failedGuess}}</h2>
 
 		<input type="text" ng-model="charGuess" id="char-guess" ng-keyup="$event.keyCode == 13 ? guess(charGuess) : null" placeholder="Guess a letter">
-		<button ng-click="guess(charGuess)">Enter</button>
+		<button ng-click="guess(charGuess)">Enter</button> <br>
+                <p>Guess the secret word</>
 	</div>
 
 	<div ng-show="stage == 'won'">
